@@ -1,4 +1,5 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-07-24,3.47,3.47,3.1,3.26,34278,-0.21,0.37,-6.44,11.35,0.19,2.83,3.35,0.11,0.19,-0.08,-500933,24.66,63.33,36.67,1.0,26.67,Weak Buy Signal,4.29,2.83,1.38,1.03,45.74,Target Volume,Expected Range,27.87,Strong Trend
 2023-07-21,3.43,3.68,3.41,3.62,10639,0.19,0.27,5.25,7.46,0.14,2.82,3.35,0.15,0.21,-0.06,-466655,27.97,65.0,38.33,1.0,26.67,Weak Buy Signal,4.28,2.82,1.37,1.03,47.32,Target Volume,Expected Range,27.92,Strong Trend
 2023-07-20,3.5,3.84,3.37,3.38,13592,-0.12,0.47,-3.55,13.91,0.23,2.81,3.34,0.16,0.22,-0.07,-477294,27.97,66.67,40.0,1.0,26.67,Weak Buy Signal,4.25,2.81,1.37,1.03,46.1,Target Volume,Expected Range,27.92,Strong Trend
 2023-07-19,3.49,3.69,3.48,3.69,3196,0.2,0.21,5.42,5.69,0.1,2.8,3.34,0.19,0.24,-0.05,-463702,27.07,68.33,41.67,1.0,26.67,Weak Buy Signal,4.23,2.8,1.37,1.02,47.49,Target Volume,Expected Range,27.92,Strong Trend
@@ -98,4 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-03-03,4.39,4.54,4.09,4.25,47646,-0.14,0.45,-3.29,10.68,0.23,8.47,7.63,-1.17,-1.23,0.06,-70291,35.65,58.33,93.33,-1.0,-35.0,Weak Sell Signal,13.14,8.47,3.8,1.1,30.81,Trending High,Bullish Trend,43.47,Strong Trend
 2023-03-02,4.73,4.85,4.26,4.46,61218,-0.27,0.59,-6.05,13.23,0.29,8.57,7.75,-1.21,-1.24,0.04,-22645,36.61,60.0,95.0,-1.0,-35.0,Weak Sell Signal,13.12,8.57,4.01,1.06,31.38,Trending High,Bullish Trend,43.6,Strong Trend
 2023-03-01,4.78,4.86,4.41,4.65,36473,-0.13,0.45,-2.9,9.68,0.23,8.66,7.86,-1.25,-1.25,-0.0,38573,37.45,61.67,96.67,-1.0,-35.0,Weak Sell Signal,13.11,8.66,4.22,1.03,31.9,Trending High,Bullish Trend,43.72,Strong Trend
-2023-02-28,4.0,4.84,4.0,4.4,99095,0.4,0.84,9.09,19.09,0.42,8.75,7.97,-1.32,-1.25,-0.06,2100,37.4,63.33,98.33,-1.0,-35.0,Weak Sell Signal,13.09,8.75,4.42,0.99,30.4,Trending High,Bullish Trend,43.83,Strong Trend
