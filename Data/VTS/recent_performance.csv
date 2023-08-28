@@ -1,4 +1,5 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-08-25,23.05,23.26,22.77,23.16,138346,0.11,0.49,0.47,2.12,0.25,23.51,22.93,-0.17,0.01,-0.17,-4285001,6.5,8.33,26.67,-1.0,-18.33,High Volatility / Hold Signal,25.57,23.51,21.45,0.18,53.11,Target Volume,Expected Range,12.55,Absent or Weak Trend
 2023-08-24,22.85,23.51,22.85,23.01,205272,0.16,0.66,0.7,2.87,0.33,23.5,22.92,-0.16,0.05,-0.21,-4423347,6.86,10.0,28.33,-1.0,-18.33,High Volatility / Hold Signal,25.57,23.5,21.43,0.18,52.85,Target Volume,Expected Range,12.66,Absent or Weak Trend
 2023-08-23,22.5,23.11,22.28,22.85,220605,0.35,0.83,1.53,3.62,0.41,23.5,22.92,-0.13,0.1,-0.23,-4628619,5.31,11.67,30.0,-1.0,-18.33,High Volatility / Hold Signal,25.57,23.5,21.43,0.18,52.58,Target Volume,Expected Range,12.75,Absent or Weak Trend
 2023-08-22,23.31,23.5,22.68,22.73,286841,-0.58,0.82,-2.55,3.61,0.41,23.48,22.92,-0.07,0.16,-0.23,-4849224,7.05,13.33,31.67,-1.0,-18.33,High Volatility / Hold Signal,25.61,23.48,21.34,0.18,52.37,Target Volume,Expected Range,12.88,Absent or Weak Trend
@@ -98,4 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-04-06,19.84,19.99,19.51,19.6,188004,-0.24,0.48,-1.22,2.45,0.24,16.73,16.77,0.62,0.43,0.19,-4184118,11.55,61.67,6.67,1.0,55.0,Weak Buy Signal,19.81,16.73,13.64,0.37,54.41,Target Volume,Expected Range,,
 2023-04-05,19.5,19.85,19.28,19.84,207970,0.34,0.57,1.71,2.87,0.29,16.68,16.68,0.6,0.39,0.21,-3996114,,,,,,,19.7,16.68,13.66,0.36,,,,,
 2023-04-04,19.78,19.94,19.39,19.55,191665,-0.23,0.55,-1.18,2.8,0.27,,,0.54,0.33,0.2,-4204084,,,,,,,,,,,,,,,
-2023-04-03,19.64,19.98,19.37,19.76,356018,0.12,0.61,0.61,3.09,0.3,,,0.48,0.28,0.2,-4012419,,,,,,,,,,,,,,,
